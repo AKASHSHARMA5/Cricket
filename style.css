@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Source+Code+Pro:ital,wght@1,300&family=Yantramanav:wght@300&display=swap');
+
+.searchicon{
+    cursor: pointer;
+    width: 22px
+}
+
+.maleicon{
+    width: 27px;
+    margin: 13px;
+}
+
+.span{
+    /*background-color: red; */
+    margin-left: auto;
+}
+
+.username{
+    color: purple;
+}
+
+#jumbotron{
+    background-color: purple;
+    border-radius: 19px;
+    margin-top: 16px;
+}
+
+.headingh6{
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron{
+    padding: 10px
+}
+
+.para{
+    padding: 0px 53px;
+    margin-top: -38px;
+    color: white;
+}
+
+.goldicon{
+    block-size: 38px;
+}
+
+.moneyicon{
+    height: 16vh;
+    width: 7vw;
+    margin-top: -32px;
+    padding: 0px 18px;
+    padding-right: 19px;
+}
+
+.moneyspan{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: -41px;
+}
+
+.container-fluid{
+    background-color: #ebeaea;
+    margin-top: -8px;
+}
+
+#pagination{
+    /* background-color: red; */
+    padding: 6px;
+}
+
+#cardcontainer{
+    display: flex;
+}
+
+.cricketicon{
+    width: 25px;
+}
+
+.strikerate{
+    color: rgb(70, 212, 160);
+}
+
+.buttons{
+    background-color: purple;
+    color: white;
+    font-size: 10px;
+    border-radius: 13px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+#btn{
+    padding-left: 568px;
+}
+
+.crickterimg{
+    width: 187px;
+    height: 175px;
+}
+
+#maleusers{
+    cursor: pointer;
+}
+
+.fixedbottom{
+    background-color: grey;
+}
+
+#home{
+    color: black;
+}
+
+#about{
+    color: black;
+}
+
+#contact{
+    color: black;
+}
+
+#contactform{
+    padding-top: 39px;
+    font-size: 19px;
+}
+
+#submitbtn{
+    background-color: purple;
+}
